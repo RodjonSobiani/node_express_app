@@ -1,0 +1,6 @@
+{
+  "appPort": "process.env.PORT || 5000",
+  "mongoUriLocal": "mongodb://localhost:27017/myapi",
+  "mongoUriAtlas": "mongodb+srv://admin:admin@myapi.lbafg.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "2pk6LJKB5N gVX88xpDxO JIRRWL5IuW"
+}
